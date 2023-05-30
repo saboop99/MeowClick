@@ -7,7 +7,7 @@ public class Click : MonoBehaviour
     //declaração de variáveis
     public int cats = 1;
     private ScoreManager scoreManager;
-    public AudioClip Meow1;
+    public AudioClip Meow;
 
     private void Start()
     {
@@ -23,7 +23,7 @@ public class Click : MonoBehaviour
         if (Input.GetMouseButtonDown(0))
         {
             //tocando o aúdio na posição atual do gato, para poder tocar após destruir
-            AudioSource.PlayClipAtPoint(Meow1, transform.position);
+            AudioSource.PlayClipAtPoint(Meow, transform.position);
             //adicionando pontos
             scoreManager.AddPoints(cats);
             //destruindo o gato
