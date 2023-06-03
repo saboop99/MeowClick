@@ -181,7 +181,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Stop Meow
+  m_text: Stop Meow?
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 0161d805a3764c089bef00bfe00793f5, type: 2}
   m_sharedMaterial: {fileID: 2147374, guid: 0161d805a3764c089bef00bfe00793f5, type: 2}
@@ -862,7 +862,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 924497223}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d7a3060ad8c15fd44bf34d22cefc848c, type: 3}
   m_Name: 
@@ -889,13 +889,11 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 924497223}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a0ab268bce683f948968b8ea4c09ae04, type: 3}
+  m_Script: {fileID: 11500000, guid: 668f33858b82dd74da37340d2d11a1d1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cats: 1
-  Meow: {fileID: 0}
 --- !u!1 &1037876599
 GameObject:
   m_ObjectHideFlags: 0
@@ -1165,8 +1163,8 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1135194882}
         m_TargetAssemblyTypeName: StopMeow, Assembly-CSharp
-        m_MethodName: LoadScene
-        m_Mode: 5
+        m_MethodName: ExitGame
+        m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
