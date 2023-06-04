@@ -13,6 +13,8 @@ Gato preto: Imagem de <a href="https://br.freepik.com/psd-gratuitas/belo-retrato
 
 Céu roxo: <a href="https://br.freepik.com/vetores-gratis/fundo-roxo-do-ceu-nublado-com-grupo-de-cumulos-e-nuvens-cirros-ilustracao-plana-dos-desenhos-animados_16607919.htm#query=lofi&position=9&from_view=search&track=sph">Imagem de macrovector</a> no Freepik
 
+Ícone: <a href="https://www.flaticon.com/free-icons/paw" title="paw icons">Paw icons created by Mihimihi - Flaticon</a>
+
 Miado 1: https://www.youtube.com/watch?v=byKe7ciYGi8
 
 Miado 2: https://www.youtube.com/watch?v=bCVkqUrW4As
