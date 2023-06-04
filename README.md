@@ -15,6 +15,8 @@ Céu roxo: <a href="https://br.freepik.com/vetores-gratis/fundo-roxo-do-ceu-nubl
 
 Ícone: <a href="https://www.flaticon.com/free-icons/paw" title="paw icons">Paw icons created by Mihimihi - Flaticon</a>
 
+Splash: <a href="https://br.freepik.com/fotos-gratis/close-de-um-gato-ruivo-abracando-e-lambendo-o-outro-isolado-em-uma-parede-branca_13535714.htm#query=cats&position=1&from_view=search&track=locales">Imagem de wirestock</a> no Freepik
+
 Miado 1: https://www.youtube.com/watch?v=byKe7ciYGi8
 
 Miado 2: https://www.youtube.com/watch?v=bCVkqUrW4As
