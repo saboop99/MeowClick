@@ -1,6 +1,84 @@
 # MeowClick
- Meow
 
+ ## Versão: 1.0
+ 
+ ## Status do Projeto: ✔️Concluído 
+ 
+ ## Tópicos:
+ 
+🔹 Descrição do projeto
+
+🔹 Funcionalidades
+
+🔹 Distribuição
+
+🔹 Pré-requisitos
+
+🔹 Como rodar a aplicação
+
+🔹 Testes realizados
+
+🔹 Banco de Dados
+
+🔹 Linguagens, dependências e libs utilizadas
+
+🔹 Novas Recursos
+
+🔹 Resolvendo problemas
+
+🔹 Recursos inseridos
+
+🔹 Desenvolvedores/Contribuintes
+
+🔹 Informações Extras
+
+🔹 Créditos
+
+## Descrição do projeto:
+Jogo casual desenvolvido para aparelhos android, com grande foco na simplicidade e inocência
+
+## Funcionalidades ⚙️:
+✔️ Gatos aparecem na tela
+
+✔️ Se tocar nos gatos, ganha pontos
+
+✔️ Se tocar no botão "Stop Meow?" você sai do jogo
+
+## Distribuição
+[https://github.com/saboop99/FlappyBirdApp](https://github.com/saboop99/MeowClick)
+
+## Pré-requisitos ⚠️
+
+Aparelho Android 
+
+## Como rodar a aplicação
+
+Clique no ícone do jogo e depois de aberto é só jogar
+
+## Testes realizados
+
+Aparelho utilizado: moto E(7)
+
+## Banco de Dados 🗂️
+
+## Linguagens, dependencias e libs utilizadas 📚
+
+C#
+
+## Resolvendo Problemas
+
+## Recursos de inseridos 🧰
+
+## Desenvolvedores/Contribuintes:
+
+Rafael do Nascimento Rodrigues
+
+## Licença
+
+The MIT License (MIT)
+ 
+## Créditos
+ 
 Gatinho olhando pra cima: Imagem de <a href="https://br.freepik.com/fotos-gratis/gatinho-adoravel-com-parede-monocromatica-atras-dela_13863368.htm#page=4&query=cat&position=26&from_view=search&track=sph">Freepik</a>
 
 Gato cinza de olhos amarelos: Imagem de <a href="https://br.freepik.com/psd-gratuitas/belo-retrato-de-gato-isolado_38310662.htm#page=2&query=cat&position=17&from_view=search&track=sph">Freepik</a>
